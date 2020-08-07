@@ -1,0 +1,79 @@
+/*.............navbar starts...........  */
+.navbar{
+background-color:white;
+color:black;
+box-shadow: 0 0 10px rgba(192, 192, 192, 0.6);
+}
+.nav-link{
+    color:black;
+    font-weight: 560;
+}
+.nav-link:hover{
+    color: red;
+}
+.m{
+    background-color:rgb(248, 78, 78);
+    color: white;
+    border-radius: 25px;
+}
+.signin{
+   border-style: none;
+   border-radius: 6px;
+   background-color: royalblue;
+}
+.signin:hover{
+    background-color: royalblue;
+    box-shadow: 0 0 15px rgba(138, 144, 218, 0.842);
+
+}
+/*.............navbar ends.................*/
+
+
+/*-------------login starts-----------*/
+.btn{
+    background-color: royalblue;
+    color: white;
+}
+
+.btn:hover{
+    color: white;
+    box-shadow: 0 0 15px rgba(138, 144, 218, 0.842);
+
+}
+/*----------------login ends------------------------------------*/
+/*----------------our team starts-----------------------------------------*/
+.ourteam{
+    margin: 3cm;
+    text-align: center;
+
+}
+.ourteam1{
+    
+    box-shadow: 0 0 15px rgba(138, 144, 218, 0.842);
+    
+}
+/*-----------------our team ends---------------------------------------*/
+/*------------------image slider----------------------*/
+.islide {
+    height: 15cm;
+    margin-top: 2cm;
+    
+}
+.carou{
+    margin-top: 2cm;
+    height: 1cm;
+    width: 1cm;
+  
+}
+.moreinfo{
+    border-style:none ;
+    color: white;
+    background-color: green;
+    font-weight: 600;
+    padding: 8px;
+    border-radius: 8px;
+}
+.moreinfo:hover{
+    box-shadow: 0 0 15px rgba(138, 144, 218, 0.842);
+}
+/*-------------------image slider ends----------------------------------*/
